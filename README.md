@@ -1,7 +1,7 @@
 # HEALSwin-PINN
 A set of machine learning models for classifying dark matter substructures in gravitational lensing images
 
-# Dataset
+## Dataset
 Model-1 from DeepLenseSim [GitHub](https://github.com/mwt5345/DeepLenseSim/tree/main)
 
 ## Models
